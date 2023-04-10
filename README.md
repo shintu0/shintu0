@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sintu </h1>
-<h3 align="center">Full-stack(ie.JavaScript NodeJS) developer and Internation Relations observer who hails from Bharat</h3>
+<h3 align="center">Full-stack(ie.JavaScript NodeJS) developer and International Relations observer who hails from Bharat</h3>
 
 - 🔭 I’m currently working as Full Stack Developer
 
